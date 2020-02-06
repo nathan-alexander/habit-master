@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://readwrite:readwrite@cluster0-kayaz.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://readwrite:readwrite@cluster0-kayaz.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "KZItJS2FFIH1YKC"
 }
